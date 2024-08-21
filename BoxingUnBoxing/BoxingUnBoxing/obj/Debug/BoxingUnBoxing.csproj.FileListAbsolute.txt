@@ -1,0 +1,7 @@
+C:\Users\90506\source\repos\BoxingUnBoxing\BoxingUnBoxing\bin\Debug\BoxingUnBoxing.exe.config
+C:\Users\90506\source\repos\BoxingUnBoxing\BoxingUnBoxing\bin\Debug\BoxingUnBoxing.exe
+C:\Users\90506\source\repos\BoxingUnBoxing\BoxingUnBoxing\bin\Debug\BoxingUnBoxing.pdb
+C:\Users\90506\source\repos\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\BoxingUnBoxing.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\BoxingUnBoxing.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\BoxingUnBoxing.exe
+C:\Users\90506\source\repos\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\BoxingUnBoxing.pdb
